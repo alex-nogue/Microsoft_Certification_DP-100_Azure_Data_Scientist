@@ -1,4 +1,4 @@
-# Data-Science-on-Azure
+# Azure Data Scientist
 This repository contains my notes for preparing the exam Microsoft [DP-100: Designing and Implementing a Data Science Solution on Azure](https://www.microsoft.com/en-us/learning/exam-dp-100.aspx).
 
 The exam consists on 35 questions, 5 of which represent a use case. The length of the exam is 3 hours and it is largely enough.
