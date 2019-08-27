@@ -20,7 +20,7 @@ Now it is time to discover other modules and try to implement them. Note that so
 
 For the DP-100 exam, you will sometimes need to just know the module but in some cases, you might need to know _how_ to use it and how to specify its parameters.
 
-Optimally, one should go through the list of modules and understand every module's purpose, but you do not need all of them for the exam. A good advice is to do dump exams and understand / experiment with the modules you will find.
+Optimally, one should go through the [list](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/a-z-module-list of modules and understand every module's purpose, but you do not need all of them for the exam. A good advice is to do dump exams and understand / experiment with the modules you will find.
 
 ## Azure Services
 That was the trickiest part for me. Questions regarding Azure Services are generally _basic_ but you need a good understanding on a lot of different Azure sevices. Got questions on Azure Databricks (and Data Factory orchestration), DSVM and DLVM, Azure Notebooks, Azure HDInsight etc. The tricky thing is that questions range from "what should you use if you want to run a python notebook without any installation nor Azure subscription" (Azure Notebooks) to "which virtual machine do you need if you want to connect to a PostGRE SQL database" (DSVM with Linux) and other very specific questions. Again, a good advice is to look at the dumps and understand / experiment with the different services. 
