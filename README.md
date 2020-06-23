@@ -1,3 +1,5 @@
+IMPORTANT NOTE: This repository is about the old version of the DP-100 certification. Today's certification focus is much more on Azure Machine Learning Service instead of Studio, which is disappearing with time.
+
 # Azure Data Scientist
 This repository contains my notes for preparing the exam Microsoft [DP-100: Designing and Implementing a Data Science Solution on Azure](https://www.microsoft.com/en-us/learning/exam-dp-100.aspx).
 
